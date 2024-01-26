@@ -1,0 +1,17 @@
+C:\Users\FA507XV\source\repos\EduHome.Service\bin\Debug\net6.0\EduHome.Service.deps.json
+C:\Users\FA507XV\source\repos\EduHome.Service\bin\Debug\net6.0\EduHome.Service.dll
+C:\Users\FA507XV\source\repos\EduHome.Service\bin\Debug\net6.0\EduHome.Service.pdb
+C:\Users\FA507XV\source\repos\EduHome.Service\bin\Debug\net6.0\EduHome.Core.dll
+C:\Users\FA507XV\source\repos\EduHome.Service\bin\Debug\net6.0\EduHome.Data.dll
+C:\Users\FA507XV\source\repos\EduHome.Service\bin\Debug\net6.0\EduHome.Data.pdb
+C:\Users\FA507XV\source\repos\EduHome.Service\bin\Debug\net6.0\EduHome.Core.pdb
+C:\Users\FA507XV\source\repos\EduHome.Service\obj\Debug\net6.0\EduHome.Service.csproj.AssemblyReference.cache
+C:\Users\FA507XV\source\repos\EduHome.Service\obj\Debug\net6.0\EduHome.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FA507XV\source\repos\EduHome.Service\obj\Debug\net6.0\EduHome.Service.AssemblyInfoInputs.cache
+C:\Users\FA507XV\source\repos\EduHome.Service\obj\Debug\net6.0\EduHome.Service.AssemblyInfo.cs
+C:\Users\FA507XV\source\repos\EduHome.Service\obj\Debug\net6.0\EduHome.Service.csproj.CoreCompileInputs.cache
+C:\Users\FA507XV\source\repos\EduHome.Service\obj\Debug\net6.0\EduHome.Service.csproj.CopyComplete
+C:\Users\FA507XV\source\repos\EduHome.Service\obj\Debug\net6.0\EduHome.Service.dll
+C:\Users\FA507XV\source\repos\EduHome.Service\obj\Debug\net6.0\refint\EduHome.Service.dll
+C:\Users\FA507XV\source\repos\EduHome.Service\obj\Debug\net6.0\EduHome.Service.pdb
+C:\Users\FA507XV\source\repos\EduHome.Service\obj\Debug\net6.0\ref\EduHome.Service.dll
